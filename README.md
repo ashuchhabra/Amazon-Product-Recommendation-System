@@ -1,5 +1,5 @@
 # Amazon-Fashion-Discovery-Engine
-Build a recommendation engine which suggests similar products (apparel) to the given product (apparel) in any e-commerce websites.
+Build a recommendation system which suggests similar products (apparel) to the given product (apparel) in an e-commerce website.
 ## Statement
 
 Personalized product recommendations are the alternative way of navigating through the online shop. More people find products they need. Even if they didn’t think of them.
@@ -8,7 +8,7 @@ Build a recommendation engine which suggests  similar products to the given prod
 
 ## Objective 
 
-The recommendation engine, uses information about 1,80,000 products and  each product will have multiple features named
+The recommendation engine, uses information about 1,80,000 products and each product will have multiple features named:
 
 1. Title of the product  
 2. Brand of the product
@@ -18,7 +18,7 @@ The recommendation engine, uses information about 1,80,000 products and  each pr
 
 ## Model Building
 
-Out of 180k data points, the dataset was reduced to 16k points by removing the duplicates and performing text preprocessing on the dataset.
+Out of the 180k data points, the dataset was reduced to 16k points by removing the duplicates and performing text preprocessing on the dataset.
 
 Three approaches: <b> Text-based product similarity,text-semantic based product similarity and visual feature based product similarity are used for this case study.</b>
 <b>
