@@ -22,7 +22,7 @@ Out of 180k data points, the dataset was reduced to 16k points by removing the d
 
 Three approaches: <b> Text-based product similarity,text-semantic based product similarity and visual feature based product similarity are used for this case study.</b>
 <b>
-1. In text-based similarity, techniques like BOW and TF-IDF are used.
-2. In text-semantic based similarity, techniques like Word2Vec and Average Word2Vec are used.
-3. In visual feature based similarity, CNN based architecture (VGG-16) is used.
+1. For text-based similarity, techniques like BOW and TF-IDF are used.
+2. For text-semantic based similarity, techniques like Word2Vec and Average Word2Vec are used.
+3. For visual feature based similarity, CNN based architecture (VGG-16) is used.
 </b>
