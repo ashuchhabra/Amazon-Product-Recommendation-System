@@ -1,6 +1,6 @@
 # Amazon-Fashion-Discovery-Engine
 Build a recommendation system which suggests similar products (apparel) to the given product (apparel) in an e-commerce website.
-## Statement
+## Problem Statement
 
 Personalized product recommendations are the alternative way of navigating through the online shop. More people find products they need. Even if they didn’t think of them.
 
